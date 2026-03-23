@@ -106,10 +106,10 @@ This project evaluates **NEO-ov** models across **3 major benchmark categories**
   <tr>
     <th rowspan="2" align="left">Model_NAME</th>
     <th rowspan="2" align="left">Base_LLM_NAME</th>
-    <th colspan="1" align="center">📚 Knowledge</th>
-    <th colspan="4" align="center">💬 General VQA</th>
-    <th colspan="5" align="center">🔍 OCR VQA</th>
-    <th colspan="2" align="center">👻 Hallucination</th>
+    <th colspan="1" align="center">Knowledge</th>
+    <th colspan="4" align="center">General VQA</th>
+    <th colspan="5" align="center">OCR VQA</th>
+    <th colspan="2" align="center">Hallucination</th>
   </tr>
   <tr>
     <th align="center">MMMU-VAL</th>
